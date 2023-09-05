@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
-  "homepage": "https://nathankwon.site",
+  "homepage": "https://nathan-dot.github.io/Portfolio-React/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
