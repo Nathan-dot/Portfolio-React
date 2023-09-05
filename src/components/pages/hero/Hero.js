@@ -11,7 +11,7 @@ import { useTheme } from "@mui/styles";
 import AnimateOnScroll from "../../shared/AnimateOnScroll";
 
 const heroImageSrc =
-  "https://firebasestorage.googleapis.com/v0/b/portfolio-bcf96.appspot.com/o/Screenshot%202023-09-04%20at%209.43.24%20PM.png?alt=media&token=55334602-d67c-4dce-b3da-5e2e75068bc8";
+  "https://firebasestorage.googleapis.com/v0/b/portfolio-bcf96.appspot.com/o/Screenshot%202023-09-04%20at%209.43.24%20PM.png?alt=media&token=7f5a4a96-2818-493b-9a90-4ef6c2d4a67e";
 
   const contactList = [
   {
